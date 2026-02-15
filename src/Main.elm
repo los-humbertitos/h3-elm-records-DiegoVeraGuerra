@@ -1,4 +1,4 @@
-module Helper exposing (..)
+module Main exposing (..)
 
 import Html
 
